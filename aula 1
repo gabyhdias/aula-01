@@ -1,21 +1,58 @@
 </head>
+<title> Meu Primeiro Site HTML </title>
 <body>
 
     <h1> Tags em HTML </h1>
+
     <h3> Tags Básicos
+    
     <p> html - Inicia/ termina um documento HTML </p>
     <p> </p> &lt html aqui agora estou usando essa tag
     <p> head - Define a área de cabeçalho, com elementos não visualizáveis na página </p>
+    <p> </p> &lt head agora estou usando essa tag
     <p> body - Define a área visível do documento </p>
+    <p> </p> &lt body agora usando essa tag
+
     <h3> Atributos do Corpo </h3>
+
     <p> i - Define uma parte do texto com uma voz ou tom alternativo.</p>
     <p></p> &lt i aqui agora estou usando essa tag
     <p> section - Define uma seção em um documento. </p>
     <p></p> &lt section agora usando essa tag
     <p> nav - Define links de navegação </p>
+    <p> </p> &lt nav usando essa tag
     <p> p - Define um parágrafo </p>
-    <p>  </p>
-    <h3> </h3>
+    <p> </p> &lt p usando essa tag
+    <p> q - Define uma citação curta </p>
+    <p> </p> &lt q usando essa tag
+    <p> s - Define um texto tachado </p>
+    <p> </p> &lt s usando essa tag
+    <p> small - Define um texto pequeno </p>
+    <p> </p> &lt small usando essa tag
+    <p> strong - Define um texto importante </p>
+    <p> </p> &lt strong usando essa tag
+    <p> table - Define uma tabela </p>
+    <p> </p> &lt table usando essa tag
+    <p> time - Define uma data/hora </p>
+    <p> </p> &lt time usando essa tag
+    <p> u - Define um texto sublinhado </p>
+    <p> </p> &lt u usando essa tag
+    <p> video - Define um elemento de vídeo </p>
+    <p> </p> &lt video usando essa tag
+    <p> audio - Define um elemento de áudio </p>
+    <p> </p> &lt audio usando essa tag
+    <p> img - Define uma imagem </p>
+    <p> </p> &lt img usando essa tag
+    <p> a - Define um hyperlink </p>
+    <p> </p> &lt a usando essa tag
+    <p> div - Define uma divisão ou seção em um documento </p>
+    <p> </p> &lt div usando essa tag
+    <p> span - Define uma seção em um documento </p>
+    <p> </p> &lt span usando essa tag
+    <p> br - Define uma quebra de linha </p>
+    <p> </p> &lt br usando essa tag
+
+    
 
 
 </body>
