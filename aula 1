@@ -15,9 +15,9 @@
 
     <h3> Atributos do Corpo </h3>
 
-    <p> i - Define uma parte do texto com uma voz ou tom alternativo.</p>
+    <p> i - Define uma parte do texto com uma voz ou tom alternativo</p>
     <p></p> &lt usando a tag i
-    <p> section - Define uma seção em um documento. </p>
+    <p> section - Define uma seção em um documento </p>
     <p></p> &lt usando a tag section
     <p> nav - Define links de navegação </p>
     <p> </p> &lt usando a tag nav
