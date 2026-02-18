@@ -1,0 +1,22 @@
+</head>
+<body>
+
+    <h1> Tags em HTML </h1>
+    <h3> Tags Básicos
+    <p> html - Inicia/ termina um documento HTML </p>
+    <p> </p> &lt html aqui agora estou usando essa tag
+    <p> head - Define a área de cabeçalho, com elementos não visualizáveis na página </p>
+    <p> body - Define a área visível do documento </p>
+    <h3> Atributos do Corpo </h3>
+    <p> i - Define uma parte do texto com uma voz ou tom alternativo.</p>
+    <p></p> &lt i aqui agora estou usando essa tag
+    <p> section - Define uma seção em um documento. </p>
+    <p></p> &lt section agora usando essa tag
+    <p> nav - Define links de navegação </p>
+    <p> p - Define um parágrafo </p>
+    <p>  </p>
+    <h3> </h3>
+
+
+</body>
+</html>
