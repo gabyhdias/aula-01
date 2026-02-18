@@ -7,50 +7,50 @@
     <h3> Tags Básicos
     
     <p> html - Inicia/ termina um documento HTML </p>
-    <p> </p> &lt html aqui agora estou usando essa tag
+    <p> </p> &lt usando a tag html
     <p> head - Define a área de cabeçalho, com elementos não visualizáveis na página </p>
-    <p> </p> &lt head agora estou usando essa tag
+    <p> </p> &lt usando a tag head
     <p> body - Define a área visível do documento </p>
-    <p> </p> &lt body agora usando essa tag
+    <p> </p> &lt usando a tag body
 
     <h3> Atributos do Corpo </h3>
 
     <p> i - Define uma parte do texto com uma voz ou tom alternativo.</p>
-    <p></p> &lt i aqui agora estou usando essa tag
+    <p></p> &lt usando a tag i
     <p> section - Define uma seção em um documento. </p>
-    <p></p> &lt section agora usando essa tag
+    <p></p> &lt usando a tag section
     <p> nav - Define links de navegação </p>
-    <p> </p> &lt nav usando essa tag
+    <p> </p> &lt usando a tag nav
     <p> p - Define um parágrafo </p>
-    <p> </p> &lt p usando essa tag
+    <p> </p> &lt usando a tag p
     <p> q - Define uma citação curta </p>
-    <p> </p> &lt q usando essa tag
+    <p> </p> &lt usando a tag q
     <p> s - Define um texto tachado </p>
-    <p> </p> &lt s usando essa tag
+    <p> </p> &lt usando a tag s
     <p> small - Define um texto pequeno </p>
-    <p> </p> &lt small usando essa tag
+    <p> </p> &lt usando a tag small
     <p> strong - Define um texto importante </p>
-    <p> </p> &lt strong usando essa tag
+    <p> </p> &lt usando a tag strong
     <p> table - Define uma tabela </p>
-    <p> </p> &lt table usando essa tag
+    <p> </p> &lt usando a tag table
     <p> time - Define uma data/hora </p>
-    <p> </p> &lt time usando essa tag
+    <p> </p> &lt usando a tag time
     <p> u - Define um texto sublinhado </p>
-    <p> </p> &lt u usando essa tag
+    <p> </p> &lt usando a tag u
     <p> video - Define um elemento de vídeo </p>
-    <p> </p> &lt video usando essa tag
+    <p> </p> &lt usando a tag video
     <p> audio - Define um elemento de áudio </p>
-    <p> </p> &lt audio usando essa tag
+    <p> </p> &lt usando a tag audio
     <p> img - Define uma imagem </p>
-    <p> </p> &lt img usando essa tag
+    <p> </p> &lt usando a tag img
     <p> a - Define um hyperlink </p>
-    <p> </p> &lt a usando essa tag
+    <p> </p> &lt usando a tag a
     <p> div - Define uma divisão ou seção em um documento </p>
-    <p> </p> &lt div usando essa tag
+    <p> </p> &lt usando a tag div
     <p> span - Define uma seção em um documento </p>
-    <p> </p> &lt span usando essa tag
+    <p> </p> &lt usando a tag span
     <p> br - Define uma quebra de linha </p>
-    <p> </p> &lt br usando essa tag
+    <p> </p> &lt usando a tag br
 
     
 
